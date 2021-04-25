@@ -4,7 +4,7 @@ PlatformIO example for creating event registration codes for the Corona-Warn-App
 https://github.com/corona-warn-app/cwa-documentation/blob/master/event_registration.md
 
 ## Dependencies
-* ricmoo/QRCode @ ^0.0.1
+* https://github.com/ricmoo/QRCode.git
 * https://github.com/Marc56K/PioProtocolBuffers.git
 * https://github.com/Marc56K/CwaQRCodePayload.git
 
